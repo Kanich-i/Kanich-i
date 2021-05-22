@@ -1,8 +1,8 @@
-### Hi there 👋
-
+[![elim's 42 stats](https://badge42.herokuapp.com/api/stats/elim?)](https://github.com/JaeSeoKim/badge42)
 <!--
 **Kanich-i/Kanich-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
